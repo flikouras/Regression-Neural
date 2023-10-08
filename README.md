@@ -1,5 +1,6 @@
-#Neural Network Simple Regressor
-###Using Keras **Sequential**
+Neural Network Simple Regressor
+================================
+##Using Keras **Sequential**
 
 The main purposes of this project are:
 + Showing the dexterity i have with Keras
@@ -7,4 +8,6 @@ The main purposes of this project are:
 + Updating things throuhg github 
 
 
+
+O Tassante einai roufixtra
 
