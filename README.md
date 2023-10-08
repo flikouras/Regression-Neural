@@ -9,5 +9,5 @@ The main purposes of this project are:
 
 
 
-O Tassante einai roufixtra
+O Tassante einai megalh roufixtra
 
